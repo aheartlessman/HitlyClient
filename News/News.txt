@@ -1,0 +1,18 @@
+{"appnews":
+{"appid":252490,
+"newsitems":[
+{"gid":"4235074931847967953",
+"title":"CookieRust",
+"url":"https://vk.com/cookierust",
+"is_external_url":true,
+"author":"SIMMONI PROJECT",
+"contents":"[img]https://i.ibb.co/7XQT859/Global-Uptade.png[/img]
+Глобальное обновление на HITLY RUST уже вышло!!!
+Встречайте",
+"feedlabel":"Community Announcements",
+"date":1703852799,
+"feedname":"steam_community_announcements",
+"feed_type":1,
+"appid":252490
+}],"count":870}
+}
