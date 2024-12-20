@@ -2,8 +2,8 @@
 {"appid":252490,
 "newsitems":[
 {"gid":"4235074931847967953",
-"title":"CookieRust",
-"url":"https://vk.com/cookierust",
+"title":"HITLY RUST",
+"url":"https://vk.com/simmoniproject2024",
 "is_external_url":true,
 "author":"SIMMONI PROJECT",
 "contents":"[img]https://i.ibb.co/7XQT859/Global-Uptade.png[/img]
